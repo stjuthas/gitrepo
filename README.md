@@ -1,3 +1,3 @@
 # gitrepo
-This is the master branch. 
-### Don't push to it direct.
+This is the dev branch. 
+### work on this one before merging.
